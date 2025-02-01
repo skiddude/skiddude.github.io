@@ -1,0 +1,8 @@
+# Vim temporary files
+*~
+*.swp
+*.swo
+*.vimrc
+*.un~ 
+*.bak
+*.tmp
